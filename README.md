@@ -63,7 +63,7 @@ Esses relacionamentos são feitos através de **chaves estrangeiras (foreign key
 ## Como executar
 
 1. Abra o MySQL Workbench (ou outro SGBD compatível)
-2. Execute o arquivo `.sql`
+2. Execute o arquivo `loja_bd_260326.sql`
 3. O banco de dados será criado automaticamente
 4. Utilize os comandos SELECT disponíveis para visualizar os dados
 
